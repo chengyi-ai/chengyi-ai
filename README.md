@@ -11,7 +11,3 @@
 
 [小红书](https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148) · [微博](https://weibo.com/u/5992954972) · [X](https://x.com/ChengYi3629)
 
-### 📊 Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chengyi-ai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengyi-ai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
