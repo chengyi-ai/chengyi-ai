@@ -9,5 +9,5 @@
 
 ### 📫 找到我
 
-[小红书](https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148) · [微博](https://weibo.com/u/5992954972) · [X](https://x.com/ChengYi3629)
+[小红书](https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148) · [X](https://x.com/ChengYi3629)
 
