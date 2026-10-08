@@ -2,18 +2,10 @@
 
 为创作者构建开源 AI Agent 技能。
 
-### 🧰 Skills
+### 🧰 Projects
 
 - 🎬 [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) — 保留视频原生字幕，精确取帧，拼成 3:4 社交长图
-- 🏛️ [cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) — 历史图文轮播：查证、文案、渲染、检查、打包
-- 📰 [retro-topic-cover](https://github.com/chengyi-ai/retro-topic-cover) — 用真实素材拼中文复古封面，不用 AI 生图
 - 📤 [douyin-image-post-scheduler](https://github.com/chengyi-ai/douyin-image-post-scheduler) — 抖音图文批量排期、定时发布、发布后核验
-
-### 🛠️ Tools
-
-- 🗂️ [chengyi-card-layout](https://github.com/chengyi-ai/chengyi-card-layout) — 粘贴图文自动分页，导出卡片 / MP4 / Live Photo
-- 📝 [online-doc-to-markdown](https://github.com/chengyi-ai/online-doc-to-markdown) — 在线文档转 Markdown
-- 🧭 [computer-use-browser-fast-path](https://github.com/chengyi-ai/computer-use-browser-fast-path) — 只用 Computer Use 跑可验证的浏览器流程
 
 ### 📫 找到我
 
