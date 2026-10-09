@@ -5,7 +5,7 @@
 ### 🧰 Projects
 
 - 🎬 [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image) — 保留视频原生字幕，精确取帧，拼成 3:4 社交长图
-- 🏛️ [cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) — 历史图文轮播：查证、文案、渲染、检查、打包
+- 🖼️ [cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill) — 给一个 AI 选题，做成封面＋10 页的小红书图文轮播
 - 📤 [douyin-image-post-scheduler](https://github.com/chengyi-ai/douyin-image-post-scheduler) — 抖音图文批量排期、定时发布、发布后核验
 
 ### 📫 找到我
