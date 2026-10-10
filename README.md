@@ -11,4 +11,4 @@
 - 📤 [douyin-image-post-scheduler](https://github.com/chengyi-ai/douyin-image-post-scheduler) — 抖音图文批量排期、定时发布、发布后核验
 - 😈 [ascii-devil-wings](https://github.com/chengyi-ai/ascii-devil-wings) — 给主页头像装一对字符画小恶魔翅膀，就是上面这对
 
-Follow me on: <a href="https://x.com/ChengYi3629"><img src="https://img.shields.io/badge/@ChengYi3629-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @ChengYi3629"></a> <a href="https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148"><img src="https://img.shields.io/badge/程意-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书 程意"></a>
+Follow me on: <a href="https://x.com/ChengYi3629"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="28" align="absmiddle" alt="X @ChengYi3629"></a> <a href="https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148"><img src="https://img.shields.io/badge/-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="28" align="absmiddle" alt="小红书 程意"></a>
