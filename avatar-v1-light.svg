@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="476" viewBox="0 0 471 476" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10px">
+<defs><filter id="g" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="0.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="g2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<text xml:space="preserve">
+<tspan x="4" y="13">                        <tspan fill="#57606a">@@#               ____                               </tspan></tspan>
+<tspan x="4" y="25">                      <tspan fill="#57606a">_#%@           _@@@@@@#^                               </tspan></tspan>
+<tspan x="4" y="37">                     <tspan fill="#57606a">@#</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">@_      _@@###@@@^`                                 </tspan></tspan>
+<tspan x="4" y="49">                     <tspan fill="#57606a">@</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">#@_  _@@@#+_@@@_@@@@@@@@___                        </tspan></tspan>
+<tspan x="4" y="61">                     <tspan fill="#57606a">@_</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">^%@@@@_+++##@@#########@@@@@@@@@___@@@            </tspan></tspan>
+<tspan x="4" y="73">                    <tspan fill="#57606a">_^@_</tspan><tspan fill="#8c959f">;;;;;;; </tspan><tspan fill="#57606a">__@%++++++x+x++x+x+xx^^^#@@x@@@#             </tspan></tspan>
+<tspan x="4" y="85">              <tspan fill="#57606a">_@@###^^##</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">_@@#^+++++x++++x+x+xx+x+xxx@@@@@@`               </tspan></tspan>
+<tspan x="4" y="97">          <tspan fill="#57606a">_@@#^</tspan><tspan fill="#8c959f">;;;;;;;;;;;</tspan><tspan fill="#57606a">_@@@@@++++__+x+x++x+x+x@@@_xxx^^##@@@@@_           </tspan></tspan>
+<tspan x="4" y="109">        <tspan fill="#57606a">@@@____</tspan><tspan fill="#8c959f">;;;;;;;;;</tspan><tspan fill="#57606a">,#^^</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">@@@@##^@++x+x++x+x+^@@#@@_xxxxx^#@@@@@_        </tspan></tspan>
+<tspan x="4" y="121">          <tspan fill="#57606a">``@##^</tspan><tspan fill="#8c959f">;;;;;;;;;;;;</tspan><tspan fill="#57606a">_@##^</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">_@++++x+x+x@%@@@@ %@@xxxxx%xxx^@@@@_      </tspan></tspan>
+<tspan x="4" y="133">         <tspan fill="#57606a">_@#</tspan><tspan fill="#8c959f">;;;;;;;;;;;;;;;</tspan><tspan fill="#57606a">@#`</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">@@@x+x++x+x+@@^@@#@_@_xxxxxx%x%xx^@@#@_    </tspan></tspan>
+<tspan x="4" y="145">        <tspan fill="#57606a">@#</tspan><tspan fill="#8c959f">;;;;;;;;;;;;;;;;;;;;;;</tspan><tspan fill="#57606a">_@@^++x+x+xx+x+@@@@+x@@@xx%xxxx%x%xx%^#@@#@__</tspan></tspan>
+<tspan x="4" y="157">      <tspan fill="#57606a">_@`</tspan><tspan fill="#8c959f">;;;;;; ;;;;;;;;;;;;;</tspan><tspan fill="#57606a">__@##^+x++x+x+xx+x###%xxxxxxxx%xxxx%x%x%%@####^^</tspan></tspan>
+<tspan x="4" y="169">    <tspan fill="#57606a">_@#</tspan><tspan fill="#8c959f">;;;;;;;</tspan><tspan fill="#57606a">#</tspan><tspan fill="#8c959f">;;;;;</tspan><tspan fill="#57606a">@@@</tspan><tspan fill="#8c959f">;;;</tspan><tspan fill="#57606a">__@#x++++x+x++x+x+xxxx+xxxxxxxxxxx%x%xx%x%x@@@_    </tspan></tspan>
+<tspan x="4" y="181"> <tspan fill="#57606a">_@##</tspan><tspan fill="#8c959f">;;;;;;;</tspan><tspan fill="#57606a">_#</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">_#@@`_@@#++++x+x++x+x+xx+x+xxxxxxxxxxx%xxxx%x%x%%x%x^@@@   </tspan></tspan>
+<tspan x="4" y="193"><tspan fill="#57606a">@@@@@@@*_@</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">_#</tspan><tspan fill="#8c959f">;;;;;</tspan><tspan fill="#57606a">@^^^^^+++x++_@@@x++x+x+xxxx+xxxxxxxxxxx%x%xx%x%x%%x%x%@@@  </tspan></tspan>
+<tspan x="4" y="205">    <tspan fill="#57606a">_#`@#</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">_#</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">_@%+++++++++_@# @%+x+xx+x+xxxx+xxxxxx%xxx@@_%xx%x%x%%_@@@#@@ </tspan></tspan>
+<tspan x="4" y="217">   <tspan fill="#57606a">@#@@#</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">_@@@#^ @@@@@++++_@#@%_@%+x+x+xx+x+xxx__xxxxxx%x@^^@@%x%%x%x%@@@@@@@ </tspan></tspan>
+<tspan x="4" y="229">  <tspan fill="#57606a">@@#@#</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">^^`</tspan><tspan fill="#8c959f">;;;</tspan><tspan fill="#57606a">@#^ @%+_@#^ @@@#@_+xx+x+xxxx__@#@%x%xxxx@@  @@@%@@%%%x%@@ ^@@@</tspan></tspan>
+<tspan x="4" y="241">  <tspan fill="#57606a">@# @`</tspan><tspan fill="#8c959f">;;;;;;;;</tspan><tspan fill="#57606a">^</tspan><tspan fill="#8c959f">;;;</tspan><tspan fill="#57606a">@@##</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">_#@x++##x+___x+xx@@#^ @xxx%xx@@`   @@@@@@%%%x@@@  %@</tspan></tspan>
+<tspan x="4" y="253">     <tspan fill="#57606a">#</tspan><tspan fill="#8c959f">;;;;;;</tspan><tspan fill="#57606a">@#</tspan><tspan fill="#8c959f">;;;;</tspan><tspan fill="#57606a">##`</tspan><tspan fill="#8c959f">;;; </tspan><tspan fill="#57606a">@#%+x++x__@@@x@@@#`  _#__@@@_@`    @@^^@@%%%%@@@    </tspan></tspan>
+<tspan x="4" y="265">    <tspan fill="#57606a">@^</tspan><tspan fill="#8c959f">; ;</tspan><tspan fill="#57606a">_@@@</tspan><tspan fill="#8c959f">;;;;;;;;</tspan><tspan fill="#57606a">_@@#^++x+x+@@@^@%_@#`   @@@#` @@#`   __@#  @@x%@@@@@    </tspan></tspan>
+<tspan x="4" y="277">   <tspan fill="#57606a">@#</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">_@#^+@@#</tspan><tspan fill="#8c959f">;;</tspan><tspan fill="#57606a">*</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">@@@^@#x+x+@@@@@^^#@@#@@@_  ^ @@  *^  @##^^`   @@@%@##@@    </tspan></tspan>
+<tspan x="4" y="289"> <tspan fill="#57606a">_@@@@@#%+++@</tspan><tspan fill="#8c959f">;</tspan><tspan fill="#57606a">__@@__@_@++x@@# @@`   ^     `                     ^@@%@% %#    </tspan></tspan>
+<tspan x="4" y="301"> <tspan fill="#57606a">^`  @@@+;+@@@#`  ^%@@%x++@#   `                                 @@@^        </tspan></tspan>
+<tspan x="4" y="313">     <tspan fill="#57606a">@@@@_++#  @@@_  @@@@_@          @</tspan><tspan fill="#0a7f8c" font-weight="700">@</tspan><tspan fill="#57606a">@                 </tspan><tspan fill="#0a7f8c" font-weight="700">@@     </tspan><tspan fill="#57606a">@@ #         </tspan></tspan>
+<tspan x="4" y="325">     <tspan fill="#57606a">@@``@@@@ |` #^%@ %@^%@@         </tspan><tspan fill="#0a7f8c" font-weight="700">@@#                @@#     </tspan><tspan fill="#57606a">@`           </tspan></tspan>
+<tspan x="4" y="337">      <tspan fill="#57606a">`  @@#@    @#^%     `^         </tspan><tspan fill="#0a7f8c" font-weight="700">##</tspan><tspan fill="#57606a">`                 </tspan><tspan fill="#0a7f8c" font-weight="700">^</tspan><tspan fill="#57606a">`     @@           </tspan></tspan>
+<tspan x="4" y="349">          <tspan fill="#57606a">^ @@   ^%  #*                                         @^           </tspan></tspan>
+<tspan x="4" y="361">             <tspan fill="#57606a">%@@_ `^                                          _@^            </tspan></tspan>
+<tspan x="4" y="373">               <tspan fill="#57606a">`^#@@@@#@@@__                 `%***^        _@@#`             </tspan></tspan>
+<tspan x="4" y="385">                     <tspan fill="#57606a">^@@#@@##@@___                    __@@#^^                </tspan></tspan>
+<tspan x="4" y="397">                      <tspan fill="#57606a">^  `#</tspan><tspan fill="#afb8c1" font-weight="700">%  </tspan><tspan fill="#57606a">_#@@#%@@@@@_______@@@###^^`                    </tspan></tspan>
+<tspan x="4" y="409">                            <tspan fill="#57606a">_@#</tspan><tspan fill="#afb8c1" font-weight="700">%%</tspan><tspan fill="#57606a">^#@@__ ^##@@@#@_                            </tspan></tspan>
+<tspan x="4" y="421">                          <tspan fill="#000000">@@@@@</tspan><tspan fill="#afb8c1" font-weight="700">%%%%%%%</tspan><tspan fill="#000000">^#@_ @#</tspan><tspan fill="#afb8c1" font-weight="700">%%%</tspan><tspan fill="#000000">@@_                          </tspan></tspan>
+<tspan x="4" y="433">                         <tspan fill="#000000">_@@%</tspan><tspan fill="#3a3e45">x</tspan><tspan fill="#000000">^#@_</tspan><tspan fill="#afb8c1" font-weight="700">%%%%</tspan><tspan fill="#000000">_@%@@@#%@</tspan><tspan fill="#afb8c1" font-weight="700">%</tspan><tspan fill="#000000">@@@@_                        </tspan></tspan>
+<tspan x="4" y="445">                        <tspan fill="#000000">@@#</tspan><tspan fill="#3a3e45">xxxxxx</tspan><tspan fill="#000000">^%@_@@@__@@@@##%</tspan><tspan fill="#3a3e45">%</tspan><tspan fill="#000000">@@@@                       </tspan></tspan>
+<tspan x="4" y="457">                       <tspan fill="#000000">@@</tspan><tspan fill="#3a3e45">xxxx%xxxx%x%xx%x%x%%%%x%%%</tspan><tspan fill="#000000">^@@_                      </tspan></tspan>
+<tspan x="4" y="469">                      <tspan fill="#000000">@@#</tspan><tspan fill="#3a3e45">xxxxx%xxxx%x%x%%x%x%%%%x%%%</tspan><tspan fill="#000000">^^@_                     </tspan></tspan>
+</text>
+<text xml:space="preserve" filter="url(#g)">
+<tspan x="4" y="13">                     <tspan fill="#c98a8a" fill-opacity="0.7">oo                            oooooo                    </tspan></tspan>
+<tspan x="4" y="25">                  <tspan fill="#c98a8a" fill-opacity="0.7">ooo                          ..    ¥  oooo                 </tspan></tspan>
+<tspan x="4" y="37">               <tspan fill="#c98a8a" fill-opacity="0.7">ooo                              ......      ooo              </tspan></tspan>
+<tspan x="4" y="49">            <tspan fill="#c98a8a" fill-opacity="0.7">ooo                                       ....     ooo           </tspan></tspan>
+<tspan x="4" y="61">          <tspan fill="#c98a8a" fill-opacity="0.7">ooo    ...                                              oo         </tspan></tspan>
+<tspan x="4" y="73">        <tspan fill="#c98a8a" fill-opacity="0.7">ooo †  ...                                               § ooo       </tspan></tspan>
+<tspan x="4" y="85">       <tspan fill="#c98a8a" fill-opacity="0.7">oo                                                      ..    oo      </tspan></tspan>
+<tspan x="4" y="97">     <tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                oo    </tspan></tspan>
+<tspan x="4" y="109">    <tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                  oo   </tspan></tspan>
+<tspan x="4" y="121">   <tspan fill="#c98a8a" fill-opacity="0.7">oo   .                                                                oo  </tspan></tspan>
+<tspan x="4" y="133">  <tspan fill="#c98a8a" fill-opacity="0.7">oo   .                                                                  oo </tspan></tspan>
+<tspan x="4" y="145"> <tspan fill="#c98a8a" fill-opacity="0.7">oo Ω .                                                                      </tspan></tspan>
+<tspan x="4" y="157"><tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                           </tspan></tspan>
+<tspan x="4" y="169"><tspan fill="#c98a8a" fill-opacity="0.7">o                                                                            </tspan></tspan>
+<tspan x="4" y="253">   <tspan fill="#c98a8a" fill-opacity="0.7">.                                                                      .  </tspan></tspan>
+<tspan x="4" y="301">                                                                        <tspan fill="#c98a8a" fill-opacity="0.7">.    </tspan></tspan>
+<tspan x="4" y="313"><tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                     ..   o</tspan></tspan>
+<tspan x="4" y="325"> <tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                   .. Ω oo</tspan></tspan>
+<tspan x="4" y="337">  <tspan fill="#c98a8a" fill-opacity="0.7">oo                                                                 ..   oo </tspan></tspan>
+<tspan x="4" y="349">   <tspan fill="#c98a8a" fill-opacity="0.7">oo   .                                                           ..   oo  </tspan></tspan>
+<tspan x="4" y="361">    <tspan fill="#c98a8a" fill-opacity="0.7">oo    ..                                                      ..    oo   </tspan></tspan>
+<tspan x="4" y="373">     <tspan fill="#c98a8a" fill-opacity="0.7">oo    ...                                                   ..    oo    </tspan></tspan>
+<tspan x="4" y="385">       <tspan fill="#c98a8a" fill-opacity="0.7">oo    ...   |                                          ...    oo      </tspan></tspan>
+<tspan x="4" y="397">        <tspan fill="#c98a8a" fill-opacity="0.7">ooo §  ...||/                                     \|...  † ooo       </tspan></tspan>
+<tspan x="4" y="409">          <tspan fill="#c98a8a" fill-opacity="0.7">ooo    .|..                                    ..\.    ooo         </tspan></tspan>
+<tspan x="4" y="421">            <tspan fill="#c98a8a" fill-opacity="0.7">ooo     .....                            .....     ooo           </tspan></tspan>
+<tspan x="4" y="433">               <tspan fill="#c98a8a" fill-opacity="0.7">ooo                                          ooo              </tspan></tspan>
+<tspan x="4" y="445">                  <tspan fill="#c98a8a" fill-opacity="0.7">oooo                                  oooo                 </tspan></tspan>
+<tspan x="4" y="457">                     <tspan fill="#c98a8a" fill-opacity="0.7">o                                  o                    </tspan></tspan>
+</text>
+<text x="172.6" y="25" fill="#d9480f" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="2.9s" repeatCount="indefinite"/></text>
+<text x="407.3" y="25" fill="#f08c00" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.2s" begin="1.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.4s" begin="1.0s" repeatCount="indefinite"/></text>
+<text x="52.2" y="37" fill="#d9480f" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.2s" begin="2.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.7s" begin="2.7s" repeatCount="indefinite"/></text>
+<text x="455.5" y="85" fill="#d9480f" filter="url(#g2)">&#x27;<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="1.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="1.9s" repeatCount="indefinite"/></text>
+<text x="262.9" y="325" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.1s" begin="2.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.6s" begin="2.7s" repeatCount="indefinite"/></text>
+<text x="22.1" y="409" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="4.1s" begin="1.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="7.0s" begin="1.7s" repeatCount="indefinite"/></text>
+<text x="10.0" y="433" fill="#f08c00" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.8s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6.5s" begin="2.9s" repeatCount="indefinite"/></text>
+<text x="419.4" y="433" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.0s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.1s" begin="2.9s" repeatCount="indefinite"/></text>
+<text x="449.5" y="433" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="0.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></text>
+<text x="455.5" y="457" fill="#f08c00" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.2s" begin="1.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.7s" begin="1.5s" repeatCount="indefinite"/></text>
+</svg>
