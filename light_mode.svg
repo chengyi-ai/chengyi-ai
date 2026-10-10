@@ -1,48 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="519" height="558" viewBox="0 0 519 558" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'PingFang SC','Noto Sans Mono CJK SC',monospace" font-size="14px">
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="476" viewBox="0 0 471 476" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'PingFang SC','Noto Sans Mono CJK SC',monospace" font-size="14px">
 <style>.a{fill:#57606a}.k{fill:#0a7f8c}.v{fill:#1f2328}.d{fill:#afb8c1}.t{fill:#0a7f8c;font-weight:700}.s{fill:#1f2328;font-weight:700}.e{fill:#0a7f8c;font-weight:700}.c{fill:#57606a}.w{fill:#afb8c1}</style>
-<rect x=".5" y=".5" width="518" height="557" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
-<path d="M.5 34H518.5" stroke="#d0d7de"/>
-<circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
-<text x="259.5" y="22" text-anchor="middle" class="d" font-size="12px">chengyi — zsh</text>
-<text x="28" y="71.0" class="a" font-size="10px" xml:space="preserve">
-<tspan x="28" y="71.0">                        @@#               ____</tspan>
-<tspan x="28" y="83.0">                      _#%@           _@@@@@@#^</tspan>
-<tspan x="28" y="95.0">                     @#<tspan class="w">::</tspan>@_      _@@###@@@^`</tspan>
-<tspan x="28" y="107.0">                     @<tspan class="w">::::</tspan>#@_  _@@@#;_@@@_@@@@@@@@___</tspan>
-<tspan x="28" y="119.0">                     @_<tspan class="w">::::</tspan>^%@@@@_;;;##@@#########@@@@@@@@@___@@@</tspan>
-<tspan x="28" y="131.0">                    _^@_<tspan class="w">:::::::</tspan> __@%;;;;;;+;+;;+;+;++^^^#@@+@@@#</tspan>
-<tspan x="28" y="143.0">              _@@###^^##<tspan class="w">::::</tspan>_@@#^;;;;;+;;;;+;+;++;+;+++@@@@@@`</tspan>
-<tspan x="28" y="155.0">          _@@#^<tspan class="w">:::::::::::</tspan>_@@@@@;;;;__;+;+;;+;+;+@@@_+++^^##@@@@@_</tspan>
-<tspan x="28" y="167.0">        @@@____<tspan class="w">:::::::::</tspan>,#^^<tspan class="w">::</tspan>@@@@##^@;;+;+;;+;+;^@@#@@_+++++^#@@@@@_</tspan>
-<tspan x="28" y="179.0">          ``@##^<tspan class="w">::::::::::::</tspan>_@##^<tspan class="w">::</tspan>_@;;;;+;+;+@%@@@@ %@@+++++x+++^@@@@_</tspan>
-<tspan x="28" y="191.0">         _@#<tspan class="w">:::::::::::::::</tspan>@#`<tspan class="w">::::</tspan>@@@+;+;;+;+;@@^@@#@_@_++++++x+x++^@@#@_</tspan>
-<tspan x="28" y="203.0">        @#<tspan class="w">::::::::::::::::::::::</tspan>_@@^;;+;+;++;+;@@@@;+@@@++x++++x+x++x^#@@#@__</tspan>
-<tspan x="28" y="215.0">      _@`<tspan class="w">::::::</tspan> <tspan class="w">:::::::::::::</tspan>__@##^;+;;+;+;++;+###%++++++++x++++x+x+xx@####^^</tspan>
-<tspan x="28" y="227.0">    _@#<tspan class="w">:::::::</tspan>#<tspan class="w">:::::</tspan>@@@<tspan class="w">:::</tspan>__@#+;;;;+;+;;+;+;++++;+++++++++++x+x++x+x+@@@_</tspan>
-<tspan x="28" y="239.0"> _@##<tspan class="w">:::::::</tspan>_#<tspan class="w">::::</tspan>_#@@`_@@#;;;;+;+;;+;+;++;+;+++++++++++x++++x+x+xx+x+^@@@</tspan>
-<tspan x="28" y="251.0">@@@@@@@*_@<tspan class="w">:</tspan>_#<tspan class="w">:::::</tspan>@^^^^^;;;+;;_@@@+;;+;+;++++;+++++++++++x+x++x+x+xx+x+x@@@</tspan>
-<tspan x="28" y="263.0">    _#`@#<tspan class="w">:</tspan>_#<tspan class="w">::::</tspan>_@%;;;;;;;;;_@# @%;+;++;+;++++;++++++x+++@@_x++x+x+xx_@@@#@@</tspan>
-<tspan x="28" y="275.0">   @#@@#<tspan class="w">:</tspan>_@@@#^ @@@@@;;;;_@#@%_@%;+;+;++;+;+++__++++++x+@^^@@x+xx+x+x@@@@@@@</tspan>
-<tspan x="28" y="287.0">  @@#@#<tspan class="w">::</tspan>^^`<tspan class="w">:::</tspan>@#^ @%;_@#^ @@@#@_;++;+;++++__@#@%+x++++@@  @@@x@@xxx+x@@ ^@@@</tspan>
-<tspan x="28" y="299.0">  @# @`<tspan class="w">::::::::</tspan>^<tspan class="w">:::</tspan>@@##<tspan class="w">::</tspan>_#@+;;##+;___+;++@@#^ @+++x++@@`   @@@@@@xxx+@@@  %@</tspan>
-<tspan x="28" y="311.0">     #<tspan class="w">::::::</tspan>@#<tspan class="w">::::</tspan>##`<tspan class="w">:::</tspan> @#%;+;;+__@@@+@@@#`  _#__@@@_@`    @@^^@@xxxx@@@</tspan>
-<tspan x="28" y="323.0">    @^<tspan class="w">:</tspan> <tspan class="w">:</tspan>_@@@<tspan class="w">::::::::</tspan>_@@#^;;+;+;@@@^@%_@#`   @@@#` @@#`   __@#  @@+x@@@@@</tspan>
-<tspan x="28" y="335.0">   @#<tspan class="w">:</tspan>_@#^;@@#<tspan class="w">::</tspan>*<tspan class="w">:</tspan>@@@^@#+;+;@@@@@^^#@@#@@@_  ^ @@  *^  @##^^`   @@@x@##@@</tspan>
-<tspan x="28" y="347.0"> _@@@@@#%;;;@<tspan class="w">:</tspan>__@@__@_@;;+@@# @@`   ^     `                     ^@@x@% %#</tspan>
-<tspan x="28" y="359.0"> ^`  @@@;:;@@@#`  ^%@@%+;;@#   `                                 @@@^</tspan>
-<tspan x="28" y="371.0">     @@@@_;;#  @@@_  @@@@_@          <tspan class="c">@</tspan><tspan class="e">@</tspan><tspan class="c">@</tspan>                <tspan class="c"> </tspan><tspan class="e">@@</tspan>     @@ #</tspan>
-<tspan x="28" y="383.0">     @@``@@@@ |` #^%@ %@^%@@        <tspan class="c"> </tspan><tspan class="e">@@#</tspan>                <tspan class="e">@@#</tspan>     @`</tspan>
-<tspan x="28" y="395.0">      `  @@#@    @#^%     `^        <tspan class="c"> </tspan><tspan class="e">##</tspan><tspan class="c">`</tspan>                <tspan class="c"> </tspan><tspan class="e">^</tspan><tspan class="c">`</tspan>     @@</tspan>
-<tspan x="28" y="407.0">          ^ @@   ^%  #*        <tspan class="c">      </tspan> <tspan class="c"> </tspan>                    <tspan class="c">    </tspan> @^</tspan>
-<tspan x="28" y="419.0">             %@@_ `^                                          _@^</tspan>
-<tspan x="28" y="431.0">               `^#@@@@#@@@__                 `%***^        _@@#`</tspan>
-<tspan x="28" y="443.0">                     ^@@#@@##@@___                    __@@#^^</tspan>
-<tspan x="28" y="455.0">                      ^  `#`  _#@@#%@@@@@_______@@@###^^`</tspan>
-<tspan x="28" y="467.0">                            _@#  ^#@@__ ^##@@@#@_</tspan>
-<tspan x="28" y="479.0">                          @@@@@      `^#@_ @#   @@_</tspan>
-<tspan x="28" y="491.0">                         _@@%+^#@_    _@%@@@#%@ @@@@_</tspan>
-<tspan x="28" y="503.0">                        @@#++++++^%@_@@@__@@@@##%x@@@@</tspan>
-<tspan x="28" y="515.0">                       @@++++x++++x+x++x+x+xxxx+xxx^@@_</tspan>
-<tspan x="28" y="527.0">                      @@#+++++x++++x+x+xx+x+xxxx+xxx^^@_</tspan>
+<text x="4" y="13.0" class="a" font-size="10px" xml:space="preserve">
+<tspan x="4" y="13.0">                        @@#               ____</tspan>
+<tspan x="4" y="25.0">                      _#%@           _@@@@@@#^</tspan>
+<tspan x="4" y="37.0">                     @#<tspan class="w">::</tspan>@_      _@@###@@@^`</tspan>
+<tspan x="4" y="49.0">                     @<tspan class="w">::::</tspan>#@_  _@@@#;_@@@_@@@@@@@@___</tspan>
+<tspan x="4" y="61.0">                     @_<tspan class="w">::::</tspan>^%@@@@_;;;##@@#########@@@@@@@@@___@@@</tspan>
+<tspan x="4" y="73.0">                    _^@_<tspan class="w">:::::::</tspan> __@%;;;;;;+;+;;+;+;++^^^#@@+@@@#</tspan>
+<tspan x="4" y="85.0">              _@@###^^##<tspan class="w">::::</tspan>_@@#^;;;;;+;;;;+;+;++;+;+++@@@@@@`</tspan>
+<tspan x="4" y="97.0">          _@@#^<tspan class="w">:::::::::::</tspan>_@@@@@;;;;__;+;+;;+;+;+@@@_+++^^##@@@@@_</tspan>
+<tspan x="4" y="109.0">        @@@____<tspan class="w">:::::::::</tspan>,#^^<tspan class="w">::</tspan>@@@@##^@;;+;+;;+;+;^@@#@@_+++++^#@@@@@_</tspan>
+<tspan x="4" y="121.0">          ``@##^<tspan class="w">::::::::::::</tspan>_@##^<tspan class="w">::</tspan>_@;;;;+;+;+@%@@@@ %@@+++++x+++^@@@@_</tspan>
+<tspan x="4" y="133.0">         _@#<tspan class="w">:::::::::::::::</tspan>@#`<tspan class="w">::::</tspan>@@@+;+;;+;+;@@^@@#@_@_++++++x+x++^@@#@_</tspan>
+<tspan x="4" y="145.0">        @#<tspan class="w">::::::::::::::::::::::</tspan>_@@^;;+;+;++;+;@@@@;+@@@++x++++x+x++x^#@@#@__</tspan>
+<tspan x="4" y="157.0">      _@`<tspan class="w">::::::</tspan> <tspan class="w">:::::::::::::</tspan>__@##^;+;;+;+;++;+###%++++++++x++++x+x+xx@####^^</tspan>
+<tspan x="4" y="169.0">    _@#<tspan class="w">:::::::</tspan>#<tspan class="w">:::::</tspan>@@@<tspan class="w">:::</tspan>__@#+;;;;+;+;;+;+;++++;+++++++++++x+x++x+x+@@@_</tspan>
+<tspan x="4" y="181.0"> _@##<tspan class="w">:::::::</tspan>_#<tspan class="w">::::</tspan>_#@@`_@@#;;;;+;+;;+;+;++;+;+++++++++++x++++x+x+xx+x+^@@@</tspan>
+<tspan x="4" y="193.0">@@@@@@@*_@<tspan class="w">:</tspan>_#<tspan class="w">:::::</tspan>@^^^^^;;;+;;_@@@+;;+;+;++++;+++++++++++x+x++x+x+xx+x+x@@@</tspan>
+<tspan x="4" y="205.0">    _#`@#<tspan class="w">:</tspan>_#<tspan class="w">::::</tspan>_@%;;;;;;;;;_@# @%;+;++;+;++++;++++++x+++@@_x++x+x+xx_@@@#@@</tspan>
+<tspan x="4" y="217.0">   @#@@#<tspan class="w">:</tspan>_@@@#^ @@@@@;;;;_@#@%_@%;+;+;++;+;+++__++++++x+@^^@@x+xx+x+x@@@@@@@</tspan>
+<tspan x="4" y="229.0">  @@#@#<tspan class="w">::</tspan>^^`<tspan class="w">:::</tspan>@#^ @%;_@#^ @@@#@_;++;+;++++__@#@%+x++++@@  @@@x@@xxx+x@@ ^@@@</tspan>
+<tspan x="4" y="241.0">  @# @`<tspan class="w">::::::::</tspan>^<tspan class="w">:::</tspan>@@##<tspan class="w">::</tspan>_#@+;;##+;___+;++@@#^ @+++x++@@`   @@@@@@xxx+@@@  %@</tspan>
+<tspan x="4" y="253.0">     #<tspan class="w">::::::</tspan>@#<tspan class="w">::::</tspan>##`<tspan class="w">:::</tspan> @#%;+;;+__@@@+@@@#`  _#__@@@_@`    @@^^@@xxxx@@@</tspan>
+<tspan x="4" y="265.0">    @^<tspan class="w">:</tspan> <tspan class="w">:</tspan>_@@@<tspan class="w">::::::::</tspan>_@@#^;;+;+;@@@^@%_@#`   @@@#` @@#`   __@#  @@+x@@@@@</tspan>
+<tspan x="4" y="277.0">   @#<tspan class="w">:</tspan>_@#^;@@#<tspan class="w">::</tspan>*<tspan class="w">:</tspan>@@@^@#+;+;@@@@@^^#@@#@@@_  ^ @@  *^  @##^^`   @@@x@##@@</tspan>
+<tspan x="4" y="289.0"> _@@@@@#%;;;@<tspan class="w">:</tspan>__@@__@_@;;+@@# @@`   ^     `                     ^@@x@% %#</tspan>
+<tspan x="4" y="301.0"> ^`  @@@;:;@@@#`  ^%@@%+;;@#   `                                 @@@^</tspan>
+<tspan x="4" y="313.0">     @@@@_;;#  @@@_  @@@@_@          <tspan class="c">@</tspan><tspan class="e">@</tspan><tspan class="c">@</tspan>                <tspan class="c"> </tspan><tspan class="e">@@</tspan>     @@ #</tspan>
+<tspan x="4" y="325.0">     @@``@@@@ |` #^%@ %@^%@@        <tspan class="c"> </tspan><tspan class="e">@@#</tspan>                <tspan class="e">@@#</tspan>     @`</tspan>
+<tspan x="4" y="337.0">      `  @@#@    @#^%     `^        <tspan class="c"> </tspan><tspan class="e">##</tspan><tspan class="c">`</tspan>                <tspan class="c"> </tspan><tspan class="e">^</tspan><tspan class="c">`</tspan>     @@</tspan>
+<tspan x="4" y="349.0">          ^ @@   ^%  #*        <tspan class="c">      </tspan> <tspan class="c"> </tspan>                    <tspan class="c">    </tspan> @^</tspan>
+<tspan x="4" y="361.0">             %@@_ `^                                          _@^</tspan>
+<tspan x="4" y="373.0">               `^#@@@@#@@@__                 `%***^        _@@#`</tspan>
+<tspan x="4" y="385.0">                     ^@@#@@##@@___                    __@@#^^</tspan>
+<tspan x="4" y="397.0">                      ^  `#`  _#@@#%@@@@@_______@@@###^^`</tspan>
+<tspan x="4" y="409.0">                            _@#  ^#@@__ ^##@@@#@_</tspan>
+<tspan x="4" y="421.0">                          @@@@@      `^#@_ @#   @@_</tspan>
+<tspan x="4" y="433.0">                         _@@%+^#@_    _@%@@@#%@ @@@@_</tspan>
+<tspan x="4" y="445.0">                        @@#++++++^%@_@@@__@@@@##%x@@@@</tspan>
+<tspan x="4" y="457.0">                       @@++++x++++x+x++x+x+xxxx+xxx^@@_</tspan>
+<tspan x="4" y="469.0">                      @@#+++++x++++x+x+xx+x+xxxx+xxx^^@_</tspan>
 </text>
 </svg>
