@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="471" height="476" viewBox="0 0 471 476" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'PingFang SC','Noto Sans Mono CJK SC',monospace" font-size="14px">
-<style>.a{fill:#8b949e}.k{fill:#00e5ff}.v{fill:#e6edf3}.d{fill:#484f58}.t{fill:#00e5ff;font-weight:700}.s{fill:#e6edf3;font-weight:700}.e{fill:#00e5ff;font-weight:700}.c{fill:#8b949e}.w{fill:#484f58}</style>
-<text x="4" y="13.0" class="a" font-size="10px" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" width="471" height="476" viewBox="0 0 471 476" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10px">
+<style>.a{fill:#8b949e}.w{fill:#484f58}.e{fill:#00e5ff;font-weight:700}.c{fill:#8b949e}</style>
+<text class="a" xml:space="preserve">
 <tspan x="4" y="13.0">                        @@#               ____</tspan>
 <tspan x="4" y="25.0">                      _#%@           _@@@@@@#^</tspan>
 <tspan x="4" y="37.0">                     @#<tspan class="w">::</tspan>@_      _@@###@@@^`</tspan>
@@ -40,5 +40,4 @@
 <tspan x="4" y="445.0">                        @@#++++++^%@_@@@__@@@@##%x@@@@</tspan>
 <tspan x="4" y="457.0">                       @@++++x++++x+x++x+x+xxxx+xxx^@@_</tspan>
 <tspan x="4" y="469.0">                      @@#+++++x++++x+x+xx+x+xxxx+xxx^^@_</tspan>
-</text>
-</svg>
+</text></svg>

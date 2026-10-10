@@ -2,12 +2,7 @@
 
 为创作者构建开源 AI Agent 技能。
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
-  <img src="portrait-light.svg" alt="程意的字符画头像" width="200">
-</picture>
-</div>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="wing-left-dark.svg"><img src="wing-left-light.svg" alt="左翅膀" width="26%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg"><img src="portrait-light.svg" alt="程意的字符画头像" width="24%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="wing-right-dark.svg"><img src="wing-right-light.svg" alt="右翅膀" width="26%"></picture></p>
 
 ### 🧰 Projects
 
