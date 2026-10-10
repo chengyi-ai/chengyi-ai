@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
-  <img src="portrait-light.svg" alt="程意的字符画头像" width="160" align="right">
+  <img src="portrait-light.svg" alt="程意的字符画头像" width="200" align="right">
 </picture>
 
 ### 🧰 Projects
