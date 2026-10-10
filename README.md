@@ -2,7 +2,7 @@
 
 为创作者构建开源 AI Agent 技能。
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="wing-v3-left-dark.svg"><img src="wing-v3-left-light.svg" alt="左翅膀" width="31%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="avatar-v3-dark.svg"><img src="avatar-v3-light.svg" alt="程意的字符画头像" width="24%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="wing-v3-right-dark.svg"><img src="wing-v3-right-light.svg" alt="右翅膀" width="31%"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="wing-v4-left-dark.svg"><img src="wing-v4-left-light.svg" alt="左翅膀" width="31%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="avatar-v4-dark.svg"><img src="avatar-v4-light.svg" alt="程意的字符画头像" width="24%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="wing-v4-right-dark.svg"><img src="wing-v4-right-light.svg" alt="右翅膀" width="31%"></picture></p>
 
 ### 🧰 Projects
 

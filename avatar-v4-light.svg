@@ -42,44 +42,15 @@
 <tspan x="4" y="469">                      <tspan fill="#000000">@@#</tspan><tspan fill="#3a3e45">xxxxx%xxxx%x%x%%x%x%%%%x%%%</tspan><tspan fill="#000000">^^@_                     </tspan></tspan>
 </text>
 <text xml:space="preserve" filter="url(#g)">
-<tspan x="4" y="13">                     <tspan fill="#c98a8a" fill-opacity="0.4">oo                            oooooo                    </tspan></tspan>
-<tspan x="4" y="25">                  <tspan fill="#c98a8a" fill-opacity="0.4">ooo                          ..    ¥  oooo                 </tspan></tspan>
-<tspan x="4" y="37">               <tspan fill="#c98a8a" fill-opacity="0.4">ooo                              ......      ooo              </tspan></tspan>
-<tspan x="4" y="49">            <tspan fill="#c98a8a" fill-opacity="0.4">ooo                                       ....     ooo           </tspan></tspan>
-<tspan x="4" y="61">          <tspan fill="#c98a8a" fill-opacity="0.4">ooo    ...                                              oo         </tspan></tspan>
-<tspan x="4" y="73">        <tspan fill="#c98a8a" fill-opacity="0.4">ooo †  ...                                               § ooo       </tspan></tspan>
-<tspan x="4" y="85">       <tspan fill="#c98a8a" fill-opacity="0.4">oo                                                      ..    oo      </tspan></tspan>
-<tspan x="4" y="97">     <tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                oo    </tspan></tspan>
-<tspan x="4" y="109">    <tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                  oo   </tspan></tspan>
-<tspan x="4" y="121">   <tspan fill="#c98a8a" fill-opacity="0.4">oo   .                                                                oo  </tspan></tspan>
-<tspan x="4" y="133">  <tspan fill="#c98a8a" fill-opacity="0.4">oo   .                                                                  oo </tspan></tspan>
-<tspan x="4" y="145"> <tspan fill="#c98a8a" fill-opacity="0.4">oo Ω .                                                                      </tspan></tspan>
-<tspan x="4" y="157"><tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                           </tspan></tspan>
-<tspan x="4" y="169"><tspan fill="#c98a8a" fill-opacity="0.4">o                                                                            </tspan></tspan>
-<tspan x="4" y="253">   <tspan fill="#c98a8a" fill-opacity="0.4">.                                                                      .  </tspan></tspan>
-<tspan x="4" y="301">                                                                        <tspan fill="#c98a8a" fill-opacity="0.4">.    </tspan></tspan>
-<tspan x="4" y="313"><tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                     ..   o</tspan></tspan>
-<tspan x="4" y="325"> <tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                   .. Ω oo</tspan></tspan>
-<tspan x="4" y="337">  <tspan fill="#c98a8a" fill-opacity="0.4">oo                                                                 ..   oo </tspan></tspan>
-<tspan x="4" y="349">   <tspan fill="#c98a8a" fill-opacity="0.4">oo   .                                                           ..   oo  </tspan></tspan>
-<tspan x="4" y="361">    <tspan fill="#c98a8a" fill-opacity="0.4">oo    ..                                                      ..    oo   </tspan></tspan>
-<tspan x="4" y="373">     <tspan fill="#c98a8a" fill-opacity="0.4">oo    ...                                                   ..    oo    </tspan></tspan>
-<tspan x="4" y="385">       <tspan fill="#c98a8a" fill-opacity="0.4">oo    ...   |                                          ...    oo      </tspan></tspan>
-<tspan x="4" y="397">        <tspan fill="#c98a8a" fill-opacity="0.4">ooo §  ...||/                                     \|...  † ooo       </tspan></tspan>
-<tspan x="4" y="409">          <tspan fill="#c98a8a" fill-opacity="0.4">ooo    .|..                                    ..\.    ooo         </tspan></tspan>
-<tspan x="4" y="421">            <tspan fill="#c98a8a" fill-opacity="0.4">ooo     .....                            .....     ooo           </tspan></tspan>
-<tspan x="4" y="433">               <tspan fill="#c98a8a" fill-opacity="0.4">ooo                                          ooo              </tspan></tspan>
-<tspan x="4" y="445">                  <tspan fill="#c98a8a" fill-opacity="0.4">oooo                                  oooo                 </tspan></tspan>
-<tspan x="4" y="457">                     <tspan fill="#c98a8a" fill-opacity="0.4">o                                  o                    </tspan></tspan>
 </text>
-<text x="172.6" y="25" fill="#d9480f" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="2.9s" repeatCount="indefinite"/></text>
-<text x="407.3" y="25" fill="#f08c00" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.2s" begin="1.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.4s" begin="1.0s" repeatCount="indefinite"/></text>
-<text x="52.2" y="37" fill="#d9480f" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.2s" begin="2.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.7s" begin="2.7s" repeatCount="indefinite"/></text>
-<text x="455.5" y="85" fill="#d9480f" filter="url(#g2)">&#x27;<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="1.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="1.9s" repeatCount="indefinite"/></text>
-<text x="262.9" y="325" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.1s" begin="2.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.6s" begin="2.7s" repeatCount="indefinite"/></text>
-<text x="22.1" y="409" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="4.1s" begin="1.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="7.0s" begin="1.7s" repeatCount="indefinite"/></text>
-<text x="10.0" y="433" fill="#f08c00" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.8s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6.5s" begin="2.9s" repeatCount="indefinite"/></text>
-<text x="419.4" y="433" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.0s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.1s" begin="2.9s" repeatCount="indefinite"/></text>
-<text x="449.5" y="433" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="0.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="0.2s" repeatCount="indefinite"/></text>
+<text x="22.1" y="25" fill="#f08c00" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.1s" begin="2.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.3s" begin="2.8s" repeatCount="indefinite"/></text>
+<text x="329.1" y="25" fill="#d9480f" filter="url(#g2)">`<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.6s" begin="2.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6.1s" begin="2.8s" repeatCount="indefinite"/></text>
+<text x="377.2" y="25" fill="#e8590c" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.3s" begin="2.3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.6s" begin="2.3s" repeatCount="indefinite"/></text>
+<text x="10.0" y="157" fill="#f08c00" filter="url(#g2)">`<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.4s" begin="1.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.1s" begin="1.5s" repeatCount="indefinite"/></text>
+<text x="383.3" y="397" fill="#f08c00" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.8s" begin="1.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6.5s" begin="1.4s" repeatCount="indefinite"/></text>
+<text x="124.4" y="409" fill="#e8590c" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.0s" begin="0.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.1s" begin="0.1s" repeatCount="indefinite"/></text>
+<text x="136.4" y="433" fill="#d9480f" filter="url(#g2)">`<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.9s" begin="2.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6.6s" begin="2.4s" repeatCount="indefinite"/></text>
+<text x="401.3" y="433" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="4.1s" begin="1.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="7.0s" begin="1.4s" repeatCount="indefinite"/></text>
+<text x="106.3" y="445" fill="#e8590c" filter="url(#g2)">.<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.1s" begin="2.3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.6s" begin="2.3s" repeatCount="indefinite"/></text>
 <text x="455.5" y="457" fill="#f08c00" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="2.2s" begin="1.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.7s" begin="1.5s" repeatCount="indefinite"/></text>
 </svg>
