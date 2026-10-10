@@ -42,35 +42,35 @@
 <tspan x="4" y="469">                      <tspan fill="#8b949e">@@#</tspan><tspan fill="#4a4f57">xxxxx%xxxx%x%x%%x%x%%%%x%%%</tspan><tspan fill="#8b949e">^^@_                     </tspan></tspan>
 </text>
 <text xml:space="preserve" filter="url(#g)">
-<tspan x="4" y="13">                     <tspan fill="#8f1d1d" fill-opacity="0.75">oo                            oooooo                    </tspan></tspan>
-<tspan x="4" y="25">                  <tspan fill="#8f1d1d" fill-opacity="0.75">ooo                          ..    ¥  oooo                 </tspan></tspan>
-<tspan x="4" y="37">               <tspan fill="#8f1d1d" fill-opacity="0.75">ooo                              ......      ooo              </tspan></tspan>
-<tspan x="4" y="49">            <tspan fill="#8f1d1d" fill-opacity="0.75">ooo                                       ....     ooo           </tspan></tspan>
-<tspan x="4" y="61">          <tspan fill="#8f1d1d" fill-opacity="0.75">ooo    ...                                              oo         </tspan></tspan>
-<tspan x="4" y="73">        <tspan fill="#8f1d1d" fill-opacity="0.75">ooo †  ...                                               § ooo       </tspan></tspan>
-<tspan x="4" y="85">       <tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                      ..    oo      </tspan></tspan>
-<tspan x="4" y="97">     <tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                oo    </tspan></tspan>
-<tspan x="4" y="109">    <tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                  oo   </tspan></tspan>
-<tspan x="4" y="121">   <tspan fill="#8f1d1d" fill-opacity="0.75">oo   .                                                                oo  </tspan></tspan>
-<tspan x="4" y="133">  <tspan fill="#8f1d1d" fill-opacity="0.75">oo   .                                                                  oo </tspan></tspan>
-<tspan x="4" y="145"> <tspan fill="#8f1d1d" fill-opacity="0.75">oo Ω .                                                                      </tspan></tspan>
-<tspan x="4" y="157"><tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                           </tspan></tspan>
-<tspan x="4" y="169"><tspan fill="#8f1d1d" fill-opacity="0.75">o                                                                            </tspan></tspan>
-<tspan x="4" y="253">   <tspan fill="#8f1d1d" fill-opacity="0.75">.                                                                      .  </tspan></tspan>
-<tspan x="4" y="301">                                                                        <tspan fill="#8f1d1d" fill-opacity="0.75">.    </tspan></tspan>
-<tspan x="4" y="313"><tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                     ..   o</tspan></tspan>
-<tspan x="4" y="325"> <tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                   .. Ω oo</tspan></tspan>
-<tspan x="4" y="337">  <tspan fill="#8f1d1d" fill-opacity="0.75">oo                                                                 ..   oo </tspan></tspan>
-<tspan x="4" y="349">   <tspan fill="#8f1d1d" fill-opacity="0.75">oo   .                                                           ..   oo  </tspan></tspan>
-<tspan x="4" y="361">    <tspan fill="#8f1d1d" fill-opacity="0.75">oo    ..                                                      ..    oo   </tspan></tspan>
-<tspan x="4" y="373">     <tspan fill="#8f1d1d" fill-opacity="0.75">oo    ...                                                   ..    oo    </tspan></tspan>
-<tspan x="4" y="385">       <tspan fill="#8f1d1d" fill-opacity="0.75">oo    ...   |                                          ...    oo      </tspan></tspan>
-<tspan x="4" y="397">        <tspan fill="#8f1d1d" fill-opacity="0.75">ooo §  ...||/                                     \|...  † ooo       </tspan></tspan>
-<tspan x="4" y="409">          <tspan fill="#8f1d1d" fill-opacity="0.75">ooo    .|..                                    ..\.    ooo         </tspan></tspan>
-<tspan x="4" y="421">            <tspan fill="#8f1d1d" fill-opacity="0.75">ooo     .....                            .....     ooo           </tspan></tspan>
-<tspan x="4" y="433">               <tspan fill="#8f1d1d" fill-opacity="0.75">ooo                                          ooo              </tspan></tspan>
-<tspan x="4" y="445">                  <tspan fill="#8f1d1d" fill-opacity="0.75">oooo                                  oooo                 </tspan></tspan>
-<tspan x="4" y="457">                     <tspan fill="#8f1d1d" fill-opacity="0.75">o                                  o                    </tspan></tspan>
+<tspan x="4" y="13">                     <tspan fill="#8f1d1d" fill-opacity="0.4">oo                            oooooo                    </tspan></tspan>
+<tspan x="4" y="25">                  <tspan fill="#8f1d1d" fill-opacity="0.4">ooo                          ..    ¥  oooo                 </tspan></tspan>
+<tspan x="4" y="37">               <tspan fill="#8f1d1d" fill-opacity="0.4">ooo                              ......      ooo              </tspan></tspan>
+<tspan x="4" y="49">            <tspan fill="#8f1d1d" fill-opacity="0.4">ooo                                       ....     ooo           </tspan></tspan>
+<tspan x="4" y="61">          <tspan fill="#8f1d1d" fill-opacity="0.4">ooo    ...                                              oo         </tspan></tspan>
+<tspan x="4" y="73">        <tspan fill="#8f1d1d" fill-opacity="0.4">ooo †  ...                                               § ooo       </tspan></tspan>
+<tspan x="4" y="85">       <tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                      ..    oo      </tspan></tspan>
+<tspan x="4" y="97">     <tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                oo    </tspan></tspan>
+<tspan x="4" y="109">    <tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                  oo   </tspan></tspan>
+<tspan x="4" y="121">   <tspan fill="#8f1d1d" fill-opacity="0.4">oo   .                                                                oo  </tspan></tspan>
+<tspan x="4" y="133">  <tspan fill="#8f1d1d" fill-opacity="0.4">oo   .                                                                  oo </tspan></tspan>
+<tspan x="4" y="145"> <tspan fill="#8f1d1d" fill-opacity="0.4">oo Ω .                                                                      </tspan></tspan>
+<tspan x="4" y="157"><tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                           </tspan></tspan>
+<tspan x="4" y="169"><tspan fill="#8f1d1d" fill-opacity="0.4">o                                                                            </tspan></tspan>
+<tspan x="4" y="253">   <tspan fill="#8f1d1d" fill-opacity="0.4">.                                                                      .  </tspan></tspan>
+<tspan x="4" y="301">                                                                        <tspan fill="#8f1d1d" fill-opacity="0.4">.    </tspan></tspan>
+<tspan x="4" y="313"><tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                     ..   o</tspan></tspan>
+<tspan x="4" y="325"> <tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                   .. Ω oo</tspan></tspan>
+<tspan x="4" y="337">  <tspan fill="#8f1d1d" fill-opacity="0.4">oo                                                                 ..   oo </tspan></tspan>
+<tspan x="4" y="349">   <tspan fill="#8f1d1d" fill-opacity="0.4">oo   .                                                           ..   oo  </tspan></tspan>
+<tspan x="4" y="361">    <tspan fill="#8f1d1d" fill-opacity="0.4">oo    ..                                                      ..    oo   </tspan></tspan>
+<tspan x="4" y="373">     <tspan fill="#8f1d1d" fill-opacity="0.4">oo    ...                                                   ..    oo    </tspan></tspan>
+<tspan x="4" y="385">       <tspan fill="#8f1d1d" fill-opacity="0.4">oo    ...   |                                          ...    oo      </tspan></tspan>
+<tspan x="4" y="397">        <tspan fill="#8f1d1d" fill-opacity="0.4">ooo §  ...||/                                     \|...  † ooo       </tspan></tspan>
+<tspan x="4" y="409">          <tspan fill="#8f1d1d" fill-opacity="0.4">ooo    .|..                                    ..\.    ooo         </tspan></tspan>
+<tspan x="4" y="421">            <tspan fill="#8f1d1d" fill-opacity="0.4">ooo     .....                            .....     ooo           </tspan></tspan>
+<tspan x="4" y="433">               <tspan fill="#8f1d1d" fill-opacity="0.4">ooo                                          ooo              </tspan></tspan>
+<tspan x="4" y="445">                  <tspan fill="#8f1d1d" fill-opacity="0.4">oooo                                  oooo                 </tspan></tspan>
+<tspan x="4" y="457">                     <tspan fill="#8f1d1d" fill-opacity="0.4">o                                  o                    </tspan></tspan>
 </text>
 <text x="172.6" y="25" fill="#ff5a1f" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="1.9s" begin="2.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.2s" begin="2.9s" repeatCount="indefinite"/></text>
 <text x="407.3" y="25" fill="#ffb347" filter="url(#g2)">*<animate attributeName="opacity" values="0.15;1;0.3;0.9;0.15" dur="3.2s" begin="1.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.4s" begin="1.0s" repeatCount="indefinite"/></text>
