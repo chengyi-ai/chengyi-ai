@@ -1,13 +1,13 @@
+## 你好，我是程意 👋
+
+为创作者构建开源 AI Agent 技能。
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
   <img src="portrait-light.svg" alt="程意的字符画头像" width="200">
 </picture>
 </div>
-
-## 你好，我是程意 👋
-
-为创作者构建开源 AI Agent 技能。
 
 ### 🧰 Projects
 
