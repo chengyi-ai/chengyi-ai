@@ -8,10 +8,10 @@
 - **[cy-carousel-skill](https://github.com/chengyi-ai/cy-carousel-skill)** [![GitHub stars](https://img.shields.io/github/stars/chengyi-ai/cy-carousel-skill?style=flat&color=gold)](https://github.com/chengyi-ai/cy-carousel-skill) - 给一个选题，做成封面＋10 页的图文轮播
 - **[douyin-image-post-scheduler](https://github.com/chengyi-ai/douyin-image-post-scheduler)** [![GitHub stars](https://img.shields.io/github/stars/chengyi-ai/douyin-image-post-scheduler?style=flat&color=gold)](https://github.com/chengyi-ai/douyin-image-post-scheduler) - 抖音图文批量排期、定时发布、发布后核验
 
-<p align="center"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake-dark.svg">
-  <img alt="近一个月的贡献贪吃蛇" src="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake.svg" width="360">
-</picture></p>
+  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake.svg">
+</picture>
 
 Follow me on: <a href="https://x.com/ChengYi3629"><img src="https://img.shields.io/badge/@ChengYi3629-000000?style=for-the-badge&logo=x&logoColor=white" height="28" align="absmiddle" alt="X @ChengYi3629"></a> <a href="https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148"><img src="https://img.shields.io/badge/程意-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="28" align="absmiddle" alt="小红书 程意"></a>
 

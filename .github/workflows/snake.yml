@@ -15,23 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v7
-
-      - uses: actions/setup-node@v7
+      - uses: Platane/snk@v3
         with:
-          node-version: 22
-
-      # scripts/snake-range.mjs limits the contribution calendar to the last SNAKE_DAYS days
-      - name: Generate snake (last 30 days)
-        env:
-          SNAKE_DAYS: 30
-          NODE_OPTIONS: --import ${{ github.workspace }}/scripts/snake-range.mjs
-        run: >
-          npx -y generate-snake-animation@3.5.0
-          --github_user ${{ github.repository_owner }}
-          --github_token ${{ secrets.GITHUB_TOKEN }}
-          --output dist/github-snake.svg
-          --output "dist/github-snake-dark.svg?palette=github-dark"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
