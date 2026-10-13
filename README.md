@@ -10,7 +10,7 @@
 
 <p align="center"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake-dark.svg">
-  <img alt="近一个月的贡献贪吃蛇" src="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake.svg" width="220">
+  <img alt="近一个月的贡献贪吃蛇" src="https://raw.githubusercontent.com/chengyi-ai/chengyi-ai/output/github-snake.svg" width="360">
 </picture></p>
 
 Follow me on: <a href="https://x.com/ChengYi3629"><img src="https://img.shields.io/badge/@ChengYi3629-000000?style=for-the-badge&logo=x&logoColor=white" height="28" align="absmiddle" alt="X @ChengYi3629"></a> <a href="https://www.xiaohongshu.com/user/profile/648c0e99000000001001f148"><img src="https://img.shields.io/badge/程意-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" height="28" align="absmiddle" alt="小红书 程意"></a>
